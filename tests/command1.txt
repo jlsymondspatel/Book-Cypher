@@ -1,0 +1,2 @@
+cabal run bypher -- -e ../tests/key-texts/Grimms-Fairy-Tales.txt ../tests/in1.txt ../tests/out1.txt
+cabal run bypher -- -d ../tests/key-texts/Grimms-Fairy-Tales.txt ../tests/out1.txt ../tests/out1-check.txt
